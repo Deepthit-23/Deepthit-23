@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Deepthi Buchupalli
-🚀 About Me
+🚀 About Me:
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Whether it's coding, problem-solving, or learning something new, I'm always excited to take on challenges.
 💻 Tech Stack
 |Languages: JavaScript, Python, C, HTML, CSS
